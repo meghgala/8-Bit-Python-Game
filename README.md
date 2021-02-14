@@ -5,9 +5,9 @@ There's an engine file present in the data folder which serves as a blueprint fo
 
 Components included in the engine file:
 
-Markup : - Parallax Scrolling
-         - Character Flip Animation
-         - Basic Movements
-         - Audio
+ * Parallax Scrolling
+ * Character Flip Animation
+ * Basic Movements
+ * Audio
  
 ![Didn't load](https://github.com/meghgala/8-Bit-Pyhton-Game/blob/master/pygame.png)
